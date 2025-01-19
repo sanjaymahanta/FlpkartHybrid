@@ -86,19 +86,8 @@
             <version>5.0.9</version>
         </dependency>
 
-        <!-- Lombok -->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.24</version>
-            <scope>provided</scope>
-        </dependency>
+
+        
     </dependencies>
 
-    <repositories>
-        <repository>
-            <id>maven-central</id>
-            <url>https://repo.maven.apache.org/maven2</url>
-        </repository>
-    </repositories>
-</project>
+   
